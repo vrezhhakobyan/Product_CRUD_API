@@ -6,23 +6,6 @@ Built for the Syntecxhub Back-End Internship — Project 2.
 
 ---
 
-## Folder structure
-
-```
-product-crud-api/
-├── server.js                 # Starts the app
-├── src/
-│   ├── config/db.js          # Connects to MongoDB
-│   ├── models/Product.js     # Product data shape
-│   ├── controllers/          # CRUD logic + filtering/pagination
-│   ├── routes/                # URL → controller mapping
-│   └── middleware/           # Error handling
-├── .env.example
-└── package.json
-```
-
----
-
 ## Setup
 
 1. Install dependencies:
